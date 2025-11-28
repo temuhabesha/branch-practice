@@ -4,7 +4,8 @@ import React from 'react'
 const login = () => {
   return (
     <View>
-      <Text style={style.logintext}>hi temu how was a nignt ?</Text>
+      <Text style={style.logintext}>hi temu how was a night dude ?</Text>
+     
     </View>
   );
 }
